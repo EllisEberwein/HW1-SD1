@@ -14,3 +14,6 @@ public static void main(String[] args) {
 
     }
 }
+// I learned how to create an input in Java and print it. Along with printing sums, 
+// I learned that I cannot add character string to the print,
+// otherwise the sum would print as 1037 instead of 47.
